@@ -23,18 +23,18 @@
     <%--navbar--%>
      <nav class="navbar navbar-inverse">
             <div class="container-fluid">
-                <div class="navbar-header">
+                <%--<div class="navbar-header">
                     <a href="https://www.facebook.com/" class="fa fa-facebook" style="width: 70px; height: 50px;"></a>
                     <a href="https://twitter.com/login" class="fa fa-twitter"></a>
-                </div>
+                </div>--%>
                 <ul class="nav navbar-nav">
                     <li><a href="#">Home</a></li>
                     <li><a href="#">Search </a></li>
                     <li><a href="#">About </a></li>
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
-                    <li><a href="login.aspx" dir="ltr"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
-                    <li><a href="RegistrationForm.aspx"><span class="glyphicon glyphicon-log-in"></span> Registered User </a></li>
+                    <li><a href="RegistrationForm.aspx" dir="ltr"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+                    <li><a href="login.aspx"><span class="glyphicon glyphicon-log-in"></span> Registered User </a></li>
                     <li><a href="main page.aspx"><span class="glyphicon glyphicon-refresh"></span> Refresh</a>
                 </ul>
 
