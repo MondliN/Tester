@@ -108,9 +108,13 @@
                                 <div class="form-group" style="text-align: right">
                                     <label class="col-md-4 control-label" for="singlebutton"></label>
                                     <div class="col-md-4">
-                                    <button id="Secondbutton" name="singlebutton" class="btn btn-primary" >Back </button>
+                                    <button id="Secondbutton" a href="main page.aspx" name="singlebutton" class="btn btn-primary">Back </button>
                                     </div>
                                 </div>
+
+                                    <a href="">
+                                      <input type="button" value="Visit Google" />
+                                    </a>
                             </div>
                         </div>
 
